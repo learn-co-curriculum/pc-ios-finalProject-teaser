@@ -1,8 +1,8 @@
 # Final Project Teaser
 
-![yes](http://i.giphy.com/nhaCFqbmeSHBK.gif)
-
 For your final project, you will have the chance to use [NYC Open Data](https://nycopendata.socrata.com/) and your new knowledge of how to access user location to build an app that makes it easier for New Yorkers to live, work, or play.
+
+![yes](http://i.giphy.com/nhaCFqbmeSHBK.gif)
 
 Use the NYC Open Data site to check out the following data sets:
 
