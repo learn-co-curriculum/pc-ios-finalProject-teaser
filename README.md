@@ -16,7 +16,7 @@ Use the NYC Open Data site to check out the following data sets:
 + Farmers  Markets
 + After school programs
 
-The challenge for this week is to think about an app you can build that utilizes one of these datasets.  Next week we will show you how to bring the data into your app.
+**The challenge for this week is to think about an app you can build that utilizes one of these datasets.**  Next week we will show you how to bring the data into your app.
 
 
 
