@@ -11,7 +11,6 @@ Use the NYC Open Data site to check out the following data sets:
 + SAT scores
 + 311 service request
 + Filming locations
-+ Farmers market
 + Art galleries
 + Farmers  Markets
 + After school programs
