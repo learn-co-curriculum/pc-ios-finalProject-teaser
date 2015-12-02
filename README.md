@@ -19,3 +19,5 @@ Use the NYC Open Data site to check out the following data sets:
 
 
 
+
+<a href='https://learn.co/lessons/pc-ios-finalProject-teaser' data-visibility='hidden'>View this lesson on Learn.co</a>
