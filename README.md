@@ -20,4 +20,4 @@ Use the NYC Open Data site to check out the following data sets:
 
 
 
-<a href='https://learn.co/lessons/pc-ios-finalProject-teaser' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-finalProject-teaser' title='Final Project Teaser'>Final Project Teaser</a> on Learn.co and start learning to code for free.</p>
